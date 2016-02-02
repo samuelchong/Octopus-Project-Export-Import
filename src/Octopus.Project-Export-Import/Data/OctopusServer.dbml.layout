@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12, 8.5" name="OctopusServer">
+  <DataContextMoniker Name="/OctopusServerDataContext" />
+  <nestedChildShapes>
+    <classShape Id="99d869f0-94cd-4a0c-8126-36696eb73ece" absoluteBounds="0.75, 0.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/OctopusServerDataContext/Project" />
+      <nestedChildShapes>
+        <elementListCompartment Id="90b86645-b42b-480b-b0ff-918cd612ca1d" absoluteBounds="0.765, 1.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5d8b78da-de0a-4b8d-8b00-899a705d6da0" absoluteBounds="3.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/OctopusServerDataContext/Release" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c9676306-166c-417c-92f8-dd486c2dea26" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="178ed587-bce5-42ab-b6e9-338d93fb1659" absoluteBounds="3.75, 3.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/OctopusServerDataContext/Deployment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f79f3e4a-e590-4b16-b62c-5913463fd82a" absoluteBounds="3.765, 4.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9d5396ce-233c-4779-9c43-39c497d1c8bc" absoluteBounds="6.75, 0.75, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/OctopusServerDataContext/ServerTask" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cc4c805f-96ec-4c46-9ad9-373f13562ec2" absoluteBounds="6.765, 1.21, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9a70224c-18c2-42c0-bf64-a2dfa09b0122" absoluteBounds="9.75, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/OctopusServerDataContext/VariableSet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9747d3f0-228f-471c-a873-57dbcaf40d9e" absoluteBounds="9.765, 1.3350000000000009, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8c3388d4-5126-46df-89d0-02a0274ecdac" absoluteBounds="8.625, 5.125, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/OctopusServerDataContext/Configuration" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5c88d638-fef2-4c04-a7bf-9755d17bcc8e" absoluteBounds="8.64, 5.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
